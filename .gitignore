@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+media
+Lib
+Include
+.idea
+__pycache__
+Scripts
